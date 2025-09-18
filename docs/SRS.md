@@ -254,13 +254,13 @@ UI выполнен в стиле минимализма с упором на к
 ![Login](mockups/Group15.png)
 
 ### 4.2 Моя коллекция
-![Collection](mockups/Group23.png)
+![Collection](mockups/Group32.png)
 
 ### 4.3 Карточка фильма
-![MovieCard](mockups/Group24.png)
+![MovieCard](mockups/Group31.png)
 
 ### 4.4 Рекомендации
-![Recommendations](mockups/Group25.png)
+![Recommendations](mockups/Group30.png)
 
 ### 4.5 Окошко фильма
 ![MovieWindow](mockups/Group10.png)
