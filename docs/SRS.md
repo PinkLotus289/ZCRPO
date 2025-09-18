@@ -80,22 +80,22 @@ MovieMate будет интегрироваться с внешними серв
 ## 5. User Interface Mockups
 
 ### 5.1 Вход / Регистрация
-![Login](mockups/Group%2010.png)
+![Login](mockups/Group15.png)
 
 ### 5.2 Моя коллекция
-![Collection](mockups/Group%2014.png)
+![Collection](mockups/Group23.png)
 
 ### 5.3 Карточка фильма
-![MovieCard](mockups/Group15.png)
+![MovieCard](mockups/Group24.png)
 
 ### 5.4 Рекомендации
-![Recommendations](mockups/Group%2023.png)
+![Recommendations](mockups/Group25.png)
 
-### 5.5 Пример карточки в коллекции
-![CardExample](mockups/Group%2024.png)
+### 5.5 Окошко фильма
+![MovieWindow](mockups/Group10.png)
 
-### 5.6 Детальная информация о фильме
-![MovieDetails](mockups/Group%2025.png)
+### 5.6 Макет карточки фильма
+![MovieCardTemplate](mockups/Group14.png)
 
 ---
 
