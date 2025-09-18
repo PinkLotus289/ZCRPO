@@ -80,7 +80,7 @@ MovieMate будет интегрироваться с внешними серв
 ## 5. User Interface Mockups
 
 ### 5.1 Вход / Регистрация
-![Login](mockups/Group15.png)
+![Login](mockups/Group16.png)
 
 ### 5.2 Моя коллекция
 ![Collection](mockups/Group23.png)
